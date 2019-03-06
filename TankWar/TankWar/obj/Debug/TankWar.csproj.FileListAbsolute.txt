@@ -1,0 +1,36 @@
+D:\工程\hello world\程序\TankWar\TankWar\bin\Debug\TankWar.exe.config
+D:\工程\hello world\程序\TankWar\TankWar\bin\Debug\TankWar.exe
+D:\工程\hello world\程序\TankWar\TankWar\bin\Debug\TankWar.pdb
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.exe
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.pdb
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.gameMain.resources
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.FormOperate.resources
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.FormInformation.resources
+D:\工程\hello world\程序\TankWar\TankWar\obj\Debug\TankWar.FormAbout.resources
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.pdb
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.FormInformation.resources
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.FormOperate.resources
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.FormAbout.resources
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.gameMain.resources
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\My_way\Desktop\文件\C#\大作业\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.pdb
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.FormInformation.resources
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.FormOperate.resources
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.FormAbout.resources
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.gameMain.resources
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\My_way\Desktop\文件\C#\大作业——许博\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
